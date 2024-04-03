@@ -1,6 +1,28 @@
 <h1 align="center">Hi 👋, I'm Rose Maria Dominic</h1>
-<h3 align="center">I am a 3rd year CSE student studying at Saintgits College of Engineering</h3>
-<img align="right" alt="coding" width="400" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz1leI8I9sHxymgOZ1xqzTd18Tvs0KezP5MGMS3d4b8g&s">
+<img align="center" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif"/>
+
+
+# Get to Know Rose
+<li> I am a 3rd year CSE Student studying at Saintgits College of Engineering</li>
+
+# Current Pursuits
+<li>I'm learning front-end and back-end development on Edureka</li>
+<li> I am doing a research teaser on speetch analytics</li>
+
+# Interests
+<li>Artificial Intelligence</li>
+<li>Diving into fresh teck stacks</li>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosedominic4&label=Profile%20views&color=0e75b6&style=flat" alt="rosedominic4" /> </p>
